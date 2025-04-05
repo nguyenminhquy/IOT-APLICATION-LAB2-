@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../Users/quyng/Downloads/PlatformIO_Arduino-Framework_ESP32_Template-main"
+		},
+		{
+			"name": "PlatformIO_Arduino-Framework_ESP32_Template-main",
+			"path": "."
+		},
+		{
+			"path": "../Users/quyng/Documents/Zalo Received Files/.pio"
+		},
+		{
+			"name": "da",
+			"path": "../da"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PlatformIO_Arduino-Framework_ESP32_Template-main",
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
